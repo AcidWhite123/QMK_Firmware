@@ -1,5 +1,6 @@
 # Firmware:
-All FW are make and use by me (AcidWhite).
+All FW are make and use by me.
+
 
 
 VIAL:
